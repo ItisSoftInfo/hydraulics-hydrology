@@ -22,6 +22,11 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 8 | [Three pipe problems: the loss, the flow, the diameter](https://youtu.be/nKBaGyfWa2U) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/8/) |
 | 9 | [Hazen-Williams or Darcy-Weisbach? Why the two answers differ](https://youtu.be/gWBDoYNFhus) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/9/) |
 | 10 | [Solved problems: pipe friction](https://youtu.be/Fn7h3Rc8icU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/10/) |
+| 11 | [Minor losses: entrances, exits, bends and valves](https://youtu.be/DX-EEPqzPv4) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/11/) |
+| 12 | [Sudden and gradual expansion: the loss and the pressure rise](https://youtu.be/x4m2AGmZxiE) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/12/) |
+| 13 | [Tank to tank: friction and minor losses in one pipe](https://youtu.be/uXAfvuy6wxk) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/13/) |
+| 14 | [Pipes in series and in parallel](https://youtu.be/Ikp7rh_El64) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/14/) |
+| 15 | [Solved problems: minor losses and pipe systems](https://youtu.be/y-3XW8C5nYM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/15/) |
 
 ## Licence
 
