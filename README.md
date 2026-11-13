@@ -6,6 +6,10 @@ Start here: https://itissoftinfo.github.io/hydraulics-hydrology/
 
 There is nothing to install or download. Change the yellow boxes and the results follow. All units are SI.
 
+## Formula sheets
+
+- [pipe-flow-formula-sheet.pdf](pipe-flow-formula-sheet.pdf)
+
 ## Videos: Hydraulics playlist
 
 Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
@@ -27,6 +31,11 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 13 | [Tank to tank: friction and minor losses in one pipe](https://youtu.be/uXAfvuy6wxk) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/13/) |
 | 14 | [Pipes in series and in parallel](https://youtu.be/Ikp7rh_El64) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/14/) |
 | 15 | [Solved problems: minor losses and pipe systems](https://youtu.be/y-3XW8C5nYM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/15/) |
+| 16 | [Measuring and controlling flow: venturi, orifice plate, Pitot tube and valves](https://youtu.be/hfQcSLRhIFU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/16/) |
+| 17 | [Moving water over long distances: gravity, pumping and storage](https://youtu.be/ToNzWt4jz-E) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/17/) |
+| 18 | [Pumps in a pipeline: pump curve, system curve and the operating point](https://youtu.be/AgSi1HWtWlw) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/18/) |
+| 19 | [Solved problems: meters, long mains and pumps](https://youtu.be/V9Qga0Q5flU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/19/) |
+| 20 | [Pipe flow on one page: the formula sheet](https://youtu.be/NmZ_ZIm5Ass) | formula sheet |
 
 ## Licence
 
