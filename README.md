@@ -40,6 +40,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 22 | [Uniform flow in channels: the Chezy equation from a force balance](https://youtu.be/eclq9a7-eJU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/22/) |
 | 23 | [The Manning equation: roughness n, velocity, flow and normal depth](https://youtu.be/lRlOoUHpro0) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/23/) |
 | 24 | [Solved problems: uniform flow in channels](https://youtu.be/S5AVZMDyHlE) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/24/) |
+| 25 | [Channel shapes and part-full pipes: most flow just below full](https://youtu.be/TyxiBoUS78A) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/25/) |
+| 26 | [The best hydraulic section: least wetted perimeter, most flow](https://youtu.be/wezBoNFrW5A) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/26/) |
+| 27 | [Designing a channel: lining shear check, side slopes and freeboard](https://youtu.be/tNGln-0XZEE) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/27/) |
+| 28 | [Solved problems: channel shapes and design](https://youtu.be/6EzkOY_eCTM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/28/) |
 
 ## Licence
 
