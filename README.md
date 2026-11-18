@@ -44,6 +44,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 26 | [The best hydraulic section: least wetted perimeter, most flow](https://youtu.be/wezBoNFrW5A) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/26/) |
 | 27 | [Designing a channel: lining shear check, side slopes and freeboard](https://youtu.be/tNGln-0XZEE) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/27/) |
 | 28 | [Solved problems: channel shapes and design](https://youtu.be/6EzkOY_eCTM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/28/) |
+| 29 | [The Froude number: subcritical, critical and supercritical flow](https://youtu.be/6zzpQbMkepw) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/29/) |
+| 30 | [Specific energy: one energy, two depths](https://youtu.be/kCCoCamXbTQ) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/30/) |
+| 31 | [Critical depth: least specific energy and the alternate depth](https://youtu.be/g0ZBzq0Mblg) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/31/) |
+| 32 | [Solved problems: critical flow and specific energy](https://youtu.be/9Lkjc2IFK9Y) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/32/) |
 
 ## Licence
 
