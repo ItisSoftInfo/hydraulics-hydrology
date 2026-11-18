@@ -36,6 +36,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 18 | [Pumps in a pipeline: pump curve, system curve and the operating point](https://youtu.be/AgSi1HWtWlw) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/18/) |
 | 19 | [Solved problems: meters, long mains and pumps](https://youtu.be/V9Qga0Q5flU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/19/) |
 | 20 | [Pipe flow on one page: the formula sheet](https://youtu.be/NmZ_ZIm5Ass) | formula sheet |
+| 21 | [Open channel flow: free surface, kinds of flow and the hydraulic radius](https://youtu.be/w281EaOlcxY) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/21/) |
+| 22 | [Uniform flow in channels: the Chezy equation from a force balance](https://youtu.be/eclq9a7-eJU) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/22/) |
+| 23 | [The Manning equation: roughness n, velocity, flow and normal depth](https://youtu.be/lRlOoUHpro0) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/23/) |
+| 24 | [Solved problems: uniform flow in channels](https://youtu.be/S5AVZMDyHlE) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/24/) |
 
 ## Licence
 
