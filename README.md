@@ -56,6 +56,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 38 | [Choking: the highest hump a flow can pass](https://youtu.be/wO5MYYc7ZmI) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/38/) |
 | 39 | [Narrowing a channel: bridges, piers and choking](https://youtu.be/xlaH34k7A2c) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/39/) |
 | 40 | [Solved problems: humps, narrowings and choking](https://youtu.be/VSVTUuyCXUI) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/40/) |
+| 41 | [The hydraulic jump: momentum and the depth after the jump](https://youtu.be/fCh8DZLhxiM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/41/) |
+| 42 | [Energy lost in a jump, kinds of jumps and stilling basins](https://youtu.be/XGBiYuOyl40) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/42/) |
+| 43 | [Where the jump forms: sequent depth meets tailwater](https://youtu.be/jG06CpDS-mM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/43/) |
+| 44 | [Solved problems: the hydraulic jump](https://youtu.be/H0BwuWjchKk) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/44/) |
 
 ## Licence
 
