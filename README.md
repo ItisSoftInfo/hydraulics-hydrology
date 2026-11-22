@@ -48,6 +48,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 30 | [Specific energy: one energy, two depths](https://youtu.be/kCCoCamXbTQ) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/30/) |
 | 31 | [Critical depth: least specific energy and the alternate depth](https://youtu.be/g0ZBzq0Mblg) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/31/) |
 | 32 | [Solved problems: critical flow and specific energy](https://youtu.be/9Lkjc2IFK9Y) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/32/) |
+| 33 | [Sluice gates: free and drowned flow, and the discharge coefficient](https://youtu.be/nIr-5XvHxN4) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/33/) |
+| 34 | [Broad-crested weirs and free overfalls](https://youtu.be/XgfWhCMp7ec) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/34/) |
+| 35 | [Measuring flow: sharp-crested weirs, V-notches and flumes](https://youtu.be/RZuil3R-VlA) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/35/) |
+| 36 | [Solved problems: gates and weirs](https://youtu.be/2id0jSCbgQg) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/36/) |
 
 ## Licence
 
