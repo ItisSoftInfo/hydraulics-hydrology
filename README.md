@@ -52,6 +52,10 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 34 | [Broad-crested weirs and free overfalls](https://youtu.be/XgfWhCMp7ec) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/34/) |
 | 35 | [Measuring flow: sharp-crested weirs, V-notches and flumes](https://youtu.be/RZuil3R-VlA) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/35/) |
 | 36 | [Solved problems: gates and weirs](https://youtu.be/2id0jSCbgQg) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/36/) |
+| 37 | [Flow over a hump: the surface drops in slow flow, rises in fast flow](https://youtu.be/tr6vjjlxRR0) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/37/) |
+| 38 | [Choking: the highest hump a flow can pass](https://youtu.be/wO5MYYc7ZmI) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/38/) |
+| 39 | [Narrowing a channel: bridges, piers and choking](https://youtu.be/xlaH34k7A2c) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/39/) |
+| 40 | [Solved problems: humps, narrowings and choking](https://youtu.be/VSVTUuyCXUI) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/40/) |
 
 ## Licence
 
