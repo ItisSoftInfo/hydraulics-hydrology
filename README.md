@@ -9,6 +9,7 @@ There is nothing to install or download. Change the yellow boxes and the results
 ## Formula sheets
 
 - [pipe-flow-formula-sheet.pdf](pipe-flow-formula-sheet.pdf)
+- [open-channel-formula-sheet.pdf](open-channel-formula-sheet.pdf)
 
 ## Videos: Hydraulics playlist
 
@@ -60,6 +61,11 @@ Playlist on YouTube: https://www.youtube.com/playlist?list=PLeF3q-cw13xY
 | 42 | [Energy lost in a jump, kinds of jumps and stilling basins](https://youtu.be/XGBiYuOyl40) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/42/) |
 | 43 | [Where the jump forms: sequent depth meets tailwater](https://youtu.be/jG06CpDS-mM) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/43/) |
 | 44 | [Solved problems: the hydraulic jump](https://youtu.be/H0BwuWjchKk) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/44/) |
+| 45 | [Gradually varied flow: mild and steep slopes and the profiles](https://youtu.be/AxFTCY7-Fwk) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/45/) |
+| 46 | [Controls and sketching the whole water surface](https://youtu.be/QRjIbxHAeKw) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/46/) |
+| 47 | [Computing a surface profile step by step](https://youtu.be/EdtbJm13Qqw) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/47/) |
+| 48 | [Solved problems: surface profiles](https://youtu.be/4XQ2cPqxKb8) | [open](https://itissoftinfo.github.io/hydraulics-hydrology/hydraulics/48/) |
+| 49 | [Open channels on one page: the formula sheet](https://youtu.be/IvOG6X1CYwY) | formula sheet |
 
 ## Licence
 
